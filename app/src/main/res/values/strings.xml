@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <!--Sorting and titles-->
+    <string name="action_sort">Sort</string>
+    <string name="sort_popularity">Popularity</string>
+    <string name="sort_top_rated">Top rated</string>
+    <string name="sort_by_favorites">Favorites</string>
+    <string name="title_activity_movie_detail">Movie Details</string>
+    <string name="title_activity_top_rated_movies">Top Rated Movies</string>
+    <string name="title_activity_popular_movies">Popular Movies</string>
+    <string name="title_activity_favorite_movies">Favorite Movies</string>
+    <!--Like-->
+    <string name="action_like">Like</string>
+    <!--Parcels and bundles-->
+    <string name="movie_parcel">movie</string>
+    <string name="bundle_movies">movies</string>
+    <string name="bundle_sort">sort</string>
+    <!--Errors-->
+    <string name="error">An error occurred.</string>
+    <string name="no_internet">Please, check your internet connection.</string>
+    <!--Database-->
+    <string name="database">favourite_movies</string>
+    <!--Content descriptions-->
+    <string name="poster_content_description">Poster of the film.</string>
+    <string name="press_to_read_review">Press to read review</string>
+    <!--Detailed activity-->
+    <string name="bundle_image">image</string>
+    <!--Detailed view-->
+    <string name="trailers_title">Trailers</string>
+    <string name="reviews_title">Reviews</string>
+</resources>
